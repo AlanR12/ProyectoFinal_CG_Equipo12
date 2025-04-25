@@ -1,0 +1,1 @@
+Aquí irán todos los modelos del proyecto, dentro de esta carpeta deben estar el .obj, .mtl y .png de cada uno 
